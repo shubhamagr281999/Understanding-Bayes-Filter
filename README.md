@@ -4,7 +4,7 @@ An interactive GUI based plot is made to understand the concepts of Bayes filter
 ## Setup
 - install the dependencies listed in [requirements.txt](./requirements.txt)
 
-## Run 
+## Usage 
 - To launch the plot run:
     ``` console
     python3 main.py
