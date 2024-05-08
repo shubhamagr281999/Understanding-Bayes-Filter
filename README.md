@@ -12,7 +12,7 @@ An interactive GUI based plot is made to understand the concepts of Bayes filter
 
 Upon running the above-mentioned Python script a plot similar to the one shown in the image below would come up. In this plot, 
 - The green marker indicates the current position of the robot
-- The red vertical lines indicates the positions of the doors
+- The red vertical lines indicates the position of the doors
 - The blue line indicates the belief/ probability distribution of the Robot's position 
 - The first three sliders can be used to tweak uncertainties in the sensor and actuator with the extreme left position corresponding to 0 and the extreme right corresponding to 1. 
 - The fourth slider can be used to change the position of the robot
